@@ -1,4 +1,6 @@
-# newshive
+2206002 Ahmad Hopan Kurnia
+2206017 Riyan Hakim Munparik
+2206027 Muhammad Zahran Z
 
 A new Flutter project.
 
